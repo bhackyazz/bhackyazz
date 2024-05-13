@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhackyazz
-- 👀 I’m interested in ...Web Designing
+- 👀 I’m interested in ...Web Designing, Graphic Designing
 - 🌱 I’m currently learning ...DSA, Python, Animation tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
